@@ -1,6 +1,6 @@
 ## Receiving and giving feedback
 ### An actionable guide
-	By Niklaus Gerber
+	By [Niklaus Gerber](https://www.niklausgerber.com) 
 ---
 	> Feedback is your relationship with the world and the world’s relationship with you; it’s how you impact others, for better or worse. So it’s all around you—the question is just whether you’re paying attention to it. 
 —Harvard Law School lecturer Sheila Heen, a co-leader of Harvard’s Negotiation Project and co-founder of Triad Consulting Group
