@@ -1,6 +1,6 @@
 ## Receiving and giving feedback
 ### An actionable guide
-	By [Niklaus Gerber](https://www.niklausgerber.com). You can find all the additional information about this presentation in this [article](https://world.hey.com/niklaus/receiving-and-giving-feedback-an-actionable-guide-fc06bacf).
+	By [Niklaus Gerber](https://www.niklausgerber.com). You can find all the additional information about this presentation in this [article](https://medium.com/@niklausgerber/feedback-simplified-the-definitive-handbook-for-honest-and-impactful-communication-3a503c4bf066?source=friends_link&sk=fb6d40a3acab8e1f364737c0384a1429).
 ---
 	> Feedback is your relationship with the world and the world’s relationship with you; it’s how you impact others, for better or worse. So it’s all around you—the question is just whether you’re paying attention to it. 
 —Harvard Law School lecturer Sheila Heen, a co-leader of Harvard’s Negotiation Project and co-founder of Triad Consulting Group
